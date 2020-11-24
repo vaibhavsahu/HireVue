@@ -1,0 +1,5 @@
+401k Match,1,5%
+401k Match,2,$1000
+401k Match,3,3%
+Ski Passes,1,Yes
+Ski Passes,2,No

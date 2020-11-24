@@ -9,7 +9,7 @@ public class Vote {
     private String option;
     private int count;
 
-    public static final String FILE_PATH = "<User File Path>";
+    public static final String FILE_PATH = "src/com/vaibhav/example/";
 
     public Vote() {
     }

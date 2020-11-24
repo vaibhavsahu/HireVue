@@ -1,0 +1,5 @@
+Cafeteria Meals,1,Lunch only
+Cafeteria Meals,2,Breakfast and lunch
+Cafeteria Meals,3,Lunch and dinner
+On site child care,1,Yes
+On site child care,2,No

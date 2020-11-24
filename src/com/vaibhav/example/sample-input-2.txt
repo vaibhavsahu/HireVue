@@ -1,0 +1,2 @@
+Cafeteria Meals,Lunch only,211|Cafeteria Meals,Breakfast and lunch,58|On site child care,Yes,802
+Cafeteria Meals,Lunch and dinner,58|Cafeteria Meals,Lunch only,127|On site child care,No,43
